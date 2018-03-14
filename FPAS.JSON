@@ -1,0 +1,14 @@
+[
+	{"cod":507, "desc": "Indústrias, Transportes Construção civil"},
+	{"cod":515, "desc": "Comércio, serv. saúde, Process. Dados, Prof.liberais"},
+	{"cod":523, "desc": "Sindicatos, Associações, Avulsos não vinc. ao comércio"},
+	{"cod":540, "desc": "Empresas de navegação, portuárias, dragagem"},
+	{"cod":558, "desc": "Empresas aeroviárias, administração aeroportos,reparos"},
+	{"cod":566, "desc": "Comunicação,Publicidade, Clubes, Profissionais liberais, Condomínios"},
+	{"cod":574, "desc": "Estabelecimento de ensino"},
+	{"cod":590, "desc": "Cartórios, oficializados ou não"},
+	{"cod":604, "desc": "Produtor Rural"},
+	{"cod":612, "desc": "Empresas de Transporte Rodoviário"},
+	{"cod":736, "desc": "Bancos e Instituições Financeiras"},
+	{"cod":787, "desc": "Agroindústrias / Sindictos Rurais"}
+]

@@ -1,0 +1,13 @@
+[
+	{"cod":"01", "desc": "Cônjuge"},
+	{"cod":"02", "desc": "Companheiro(a) com o(a) qual tenha filho ou viva há mais de 5 (cinco) anos ou possua Declaração de União Estável"},
+	{"cod":"03", "desc": "Filho(a) ou enteado(a)"},
+	{"cod":"04", "desc": "Filho(a) ou enteado(a), universitário(a) ou cursando escola técnica de 2º grau"},
+	{"cod":"06", "desc": "Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, do(a) qual detenha a guarda judicial"},
+	{"cod":"07", "desc": "Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, universitário(a) ou cursando escola técnica de 2° grau, do(a) qual detenha a guarda judicial"},
+	{"cod":"09", "desc": "Pais, avós e bisavós"},
+	{"cod":"10", "desc": "Menor pobre do qual detenha a guarda judicial"},
+	{"cod":"11", "desc": "A pessoa absolutamente incapaz, da qual seja tutor ou curador"},
+	{"cod":"12", "desc": "Ex-cônjuge"},
+	{"cod":"99", "desc": "Agregado/Outros"}
+]
