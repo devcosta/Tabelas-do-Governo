@@ -1,0 +1,14 @@
+[
+	{"cod":"01", "desc": "Analfabeto, inclusive o que, embora tenha recebido instrução, não se alfabetizou"},
+	{"cod":"02", "desc": "Até o 5º ano incompleto do Ensino Fundamental (antiga 4ª série) ou que se tenha alfabetizado sem ter frequentado escola regular"},
+	{"cod":"03", "desc": "5º ano completo do Ensino Fundamental"},
+	{"cod":"04", "desc": "Do 6º ao 9º ano do Ensino Fundamental incompleto (antiga 5ª a 8ª série)"},
+	{"cod":"05", "desc": "Ensino Fundamental Completo"},
+	{"cod":"06", "desc": "Ensino Médio incompleto"},
+	{"cod":"07", "desc": "Ensino Médio completo"},
+	{"cod":"08", "desc": "Educação Superior incompleta"},
+	{"cod":"09", "desc": "Educação Superior completa"},
+	{"cod":"10", "desc": "Pós-Graduação completa"},
+	{"cod":"11", "desc": "Mestrado completo"},
+	{"cod":"12", "desc": "Doutorado completo"}
+]
