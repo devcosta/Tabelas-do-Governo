@@ -1038,6 +1038,7 @@
  {"cod":"6436-1/00", "desc": "Sociedades de crédito, financiamento e investimento - financeiras"},
  {"cod":"6437-9/00", "desc": "Sociedades de crédito ao microempreendedor"},
  {"cod":"6438-7/01", "desc": "Bancos de câmbio"},
+ {"cod":"6438-7/02", "desc": ""},
  {"cod":"6438-7/99", "desc": "Outras instituições de intermediação não monetária não especificadas anteriormente"},
  {"cod":"6440-9/00", "desc": "Arrendamento mercantil"},
  {"cod":"6450-6/00", "desc": "Sociedades de capitalização"},
